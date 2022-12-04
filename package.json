@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://VitaliyMeshechek.github.io/project-GoodFood",
+  "homepage": "https://Oleg-Strong.github.io/team-project-Good_Food",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /project-GoodFood/"
+    "build": "parcel build src/*.html --public-url /team-project-Good_Food/"
   },
   "repository": {
     "type": "git",
